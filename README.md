@@ -28,4 +28,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madk1d3231&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div><div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=430&height=50&lines=993-7;fucking+nobody;i+just+can't+forget" />
+</div><div align="center">
+  <h3>993-7</h3>
+  <p>この朽ち果てた屋敷で、俺が最後の生き残りの王子だ</p>
 </div>
