@@ -11,4 +11,19 @@
 <div align="center">
   <h3>just:</h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,py,git,github,vscode" />
+</div><br>
+
+<div align="center">
+  <!-- Карточка со стриком (днями активности) в темной теме -->
+  <img src="https://streak-stats.demolab.com?user=madk1d3231&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <!-- Карточка со статистикой языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madk1d3231&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Неоновый график коммитов -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madk1d3231&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
