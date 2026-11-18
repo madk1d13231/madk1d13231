@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-### 🛠️ Стек технологий:
+### 🛠️ nobody:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,py,git,github,vscode" />
 </div>
