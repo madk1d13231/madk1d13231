@@ -1,19 +1,14 @@
-<table>
-  <tr>
-    <td background="957014989582134477.jpg" style="background-size: cover; background-position: center; border-radius: 10px;">
-      <div align="center" style="padding: 40px 20px;">
-        
-        <img src="hands.gif" width="220px" />
-        
-        <h1>ezzzz</h1>
-        <p>fucking nobody</p>
-        
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- ezzz -->
+  <img src="957014989582134477.jpg" width="100%" />
+
+  <h1>ezzzz</h1>
+  <p>fucking nobody</p>
+</div>
+
+<br>
 
 <div align="center">
-  <h3>🛠️ Стек технологий:</h3>
+  <h3>just:</h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,py,git,github,vscode" />
 </div>
