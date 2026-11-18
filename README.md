@@ -14,6 +14,6 @@
 </table>
 
 <div align="center">
-  <h3>🛠️ forget:</h3>
+  <h3>🛠️ Стек технологий:</h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,py,git,github,vscode" />
 </div>
